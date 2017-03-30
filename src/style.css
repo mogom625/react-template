@@ -1,0 +1,9 @@
+$blue: #039;
+body{
+    background:lightsteelblue;
+    color:white;
+}
+h1{
+    color:$blue;
+    display: flex;
+}
